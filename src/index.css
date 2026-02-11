@@ -146,8 +146,9 @@ body {
   color: var(--color-background);
   div {
     @apply block;
+
     img {
-      transition: transform 0.3s ease;
+      transition: transform 0.3s;
       filter: drop-shadow(0 0 10px #0000001c);
     }
   }
