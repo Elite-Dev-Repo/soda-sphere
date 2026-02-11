@@ -233,7 +233,7 @@ function App() {
         </div>
       </div>
 
-      <div className="bg-blue-600 text-white h-screen w-screen flex items-center justify-center gap-8 hidden max-md:flex">
+      <div className="bg-purple text-white h-screen w-screen flex items-center justify-center gap-8 hidden max-md:flex">
         <div className="flex flex-col items-center justify-center gap-8">
           <h1 className="text-center text-5xl font-semibold">Hello There</h1>
           <p className="text-center opacity-70 text-lg  tracking-widest uppercase">
